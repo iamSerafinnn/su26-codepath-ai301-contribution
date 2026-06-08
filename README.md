@@ -1,4 +1,4 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Add documentation on how to run the Burr UI server
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** Serafin O. Gargantiel III.
